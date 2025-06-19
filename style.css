@@ -1,0 +1,23 @@
+a{
+    color:blue;
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+}
+
+h2{
+    color: #7a18c1;/* Hexadecimel*/
+}
+
+p {
+    color:rgb(0, 0, 0);/*red, green, blue*/
+    /*color:hsl(155.6 36% 53%);/* for Hue, Saturation, and Lightness */
+    font: 15px;
+}
+body {
+    height: 1000px;
+    background-color: rgb(0, 0, 0); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right,rgb(243, 251, 4), rgb(140, 0, 255));
+}
+img {
+    padding: 8px;
+
+}
