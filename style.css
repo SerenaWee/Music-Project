@@ -1,23 +1,35 @@
 a{
     color:blue;
     font-family: "WDXL Lubrifont JP N", sans-serif;
+    padding: 15px;
+    font-weight: bolder;
 }
 
 h2{
     color: #7a18c1;/* Hexadecimel*/
+    padding: 15px;
 }
 
 p {
     color:rgb(0, 0, 0);/*red, green, blue*/
     /*color:hsl(155.6 36% 53%);/* for Hue, Saturation, and Lightness */
-    font: 15px;
+    font-size: 20px;
+    padding: 10px;
 }
 body {
-    height: 1000px;
-    background-color: rgb(0, 0, 0); /* For browsers that do not support gradients */
-    background-image: linear-gradient(to bottom right,rgb(243, 251, 4), rgb(140, 0, 255));
+    
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b04c3ba75f9eea4c85743d6/1632456987895-O4O7V9252VGT03RW6R8A/have+fun+wallpaper+sample_Artboard+23.png);
+    background-size: 65% ;
 }
 img {
-    padding: 8px;
+    width: 350px;
+    height: 200px;
+    margin: auto 20px;
+    border: 6px solid blue;
+}
 
+.lil-Nas {
+    /*background-color: rgb(0, 0, 0); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right,rgb(243, 251, 4), rgb(140, 0, 255));
+    width: 500px;
 }
