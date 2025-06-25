@@ -19,9 +19,9 @@ p {
 }
 body {
     
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5b04c3ba75f9eea4c85743d6/1632456987895-O4O7V9252VGT03RW6R8A/have+fun+wallpaper+sample_Artboard+23.png);
+    background-image: url(background.jpeg);
     backdrop-filter: saturate(450%);
-    background-size: 65% ;
+    background-size: 100% ;
 }
 img {
     width: 350px;
