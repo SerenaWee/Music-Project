@@ -20,7 +20,7 @@ p {
 body {
     
     background-image: url(background.jpeg);
-    backdrop-filter: saturate(450%);
+    backdrop-filter: saturate(100%);
     background-size: 100% ;
 }
 img {
